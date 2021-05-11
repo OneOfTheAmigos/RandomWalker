@@ -24,3 +24,5 @@ for ii in range(int(numberoftrials)):
 
 avgamount = totalamount / int(numberoftrials)
 print("The average number of tries was: " + str(avgamount))
+
+xx = input()
